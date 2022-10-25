@@ -5,6 +5,7 @@ img{
     border-radius: 150%;
     height: 150px;  
     width: 150px;  
+    object-fit:cover;
 }
 #center{
     text-align: center;  
